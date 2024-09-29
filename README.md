@@ -14,9 +14,6 @@ We directly use the compromised models (Trojan-1 to Trojan-5) from https://githu
 
 You can access the models by filling hugginface api_token in the code.
 
-### SFT-stage
-Comming Soon!
-
 
 ## Defense
 

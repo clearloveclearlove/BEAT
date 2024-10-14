@@ -8,11 +8,15 @@ The package requirement is listed in requirements.txt
 
 ## Backdoored Models
 
-### RLHF-stage
-We directly use the compromised models (Trojan-1 to Trojan-5) from https://github.com/ethz-spylab/rlhf_trojan_competition.
-
-
 You can access the models by filling hugginface api_token in the code.
+
+### SFT-stage Attack
+
+We upload the compromised models at [https://huggingface.co/BEAT-LLM-Backdoor](https://huggingface.co/BEAT-LLM-Backdoor).
+
+### RLHF-stage Attack
+
+We directly use the compromised models (Trojan-1 to Trojan-5) from [https://github.com/ethz-spylab/rlhf_trojan_competition](https://github.com/ethz-spylab/rlhf_trojan_competition).
 
 
 ## Defense
